@@ -1,0 +1,8 @@
+org.jclouds.aws.xml
+org.jclouds.aws.util
+org.jclouds.aws.domain
+org.jclouds.aws.reference
+org.jclouds.aws.handlers
+org.jclouds.aws.config
+org.jclouds.aws
+org.jclouds.aws.filters
