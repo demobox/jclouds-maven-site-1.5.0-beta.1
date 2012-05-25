@@ -1,0 +1,3 @@
+org.jclouds.openstack.keystone.v2_0
+org.jclouds.openstack.keystone.v2_0.config
+org.jclouds.openstack.keystone.v2_0.handlers
