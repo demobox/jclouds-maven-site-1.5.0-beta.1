@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.5" timestamp="2012-05-24T21:42:58.112">
+<file name="/scratch/hudson/workspace/jclouds-1.5.0-beta.1-maven-site/apis/openstack-nova/src/main/java/org/jclouds/openstack/nova/v1_1/compute/functions/ImageToOperatingSystem.java">
+<violation beginline="19" endline="131" begincolumn="1" endcolumn="2" rule="TooManyStaticImports" ruleset="Import Statement Rules" package="org.jclouds.openstack.nova.v1_1.compute.functions" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#TooManyStaticImports" priority="3">
+Too many static imports may lead to messy code
+</violation>
+</file>
+<file name="/scratch/hudson/workspace/jclouds-1.5.0-beta.1-maven-site/apis/openstack-nova/src/main/java/org/jclouds/openstack/nova/v1_1/compute/functions/ServerInZoneToNodeMetadata.java">
+<violation beginline="19" endline="170" begincolumn="1" endcolumn="2" rule="TooManyStaticImports" ruleset="Import Statement Rules" package="org.jclouds.openstack.nova.v1_1.compute.functions" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#TooManyStaticImports" priority="3">
+Too many static imports may lead to messy code
+</violation>
+</file>
+<file name="/scratch/hudson/workspace/jclouds-1.5.0-beta.1-maven-site/apis/openstack-nova/src/main/java/org/jclouds/openstack/nova/v1_1/compute/loaders/CreateUniqueKeyPair.java">
+<violation beginline="72" endline="74" begincolumn="12" endcolumn="10" rule="EmptyCatchBlock" ruleset="Basic Rules" package="org.jclouds.openstack.nova.v1_1.compute.loaders" class="CreateUniqueKeyPair" method="load" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+<file name="/scratch/hudson/workspace/jclouds-1.5.0-beta.1-maven-site/apis/openstack-nova/src/main/java/org/jclouds/openstack/nova/v1_1/compute/predicates/AllNodesInGroupTerminated.java">
+<violation beginline="19" endline="58" begincolumn="1" endcolumn="1" rule="TooManyStaticImports" ruleset="Import Statement Rules" package="org.jclouds.openstack.nova.v1_1.compute.predicates" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#TooManyStaticImports" priority="3">
+Too many static imports may lead to messy code
+</violation>
+</file>
+<file name="/scratch/hudson/workspace/jclouds-1.5.0-beta.1-maven-site/apis/openstack-nova/src/main/java/org/jclouds/openstack/nova/v1_1/domain/QuotaClass.java">
+<violation beginline="41" endline="43" begincolumn="14" endcolumn="7" rule="UselessOverridingMethod" ruleset="Basic Rules" package="org.jclouds.openstack.nova.v1_1.domain" class="QuotaClass$Builder" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#UselessOverridingMethod" priority="3">
+Overriding method merely calls super
+</violation>
+<violation beginline="65" endline="67" begincolumn="11" endcolumn="4" rule="UselessOverridingMethod" ruleset="Basic Rules" package="org.jclouds.openstack.nova.v1_1.domain" class="QuotaClass" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#UselessOverridingMethod" priority="3">
+Overriding method merely calls super
+</violation>
+</file>
+<file name="/scratch/hudson/workspace/jclouds-1.5.0-beta.1-maven-site/apis/openstack-nova/src/main/java/org/jclouds/openstack/nova/v1_1/extensions/QuotaClassAsyncClient.java">
+<violation beginline="41" endline="41" begincolumn="1" endcolumn="45" rule="UnusedImports" ruleset="Import Statement Rules" package="org.jclouds.openstack.nova.v1_1.extensions" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.rest.annotations.WrapWith'
+</violation>
+</file>
+<file name="/scratch/hudson/workspace/jclouds-1.5.0-beta.1-maven-site/apis/openstack-nova/src/main/java/org/jclouds/openstack/nova/v1_1/extensions/QuotaClassClient.java">
+<violation beginline="26" endline="26" begincolumn="1" endcolumn="53" rule="UnusedImports" ruleset="Import Statement Rules" package="org.jclouds.openstack.nova.v1_1.extensions" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.openstack.nova.v1_1.domain.Quotas'
+</violation>
+</file>
+<file name="/scratch/hudson/workspace/jclouds-1.5.0-beta.1-maven-site/apis/openstack-nova/src/main/java/org/jclouds/openstack/nova/v1_1/extensions/VolumeAsyncClient.java">
+<violation beginline="42" endline="42" begincolumn="1" endcolumn="44" rule="UnusedImports" ruleset="Import Statement Rules" package="org.jclouds.openstack.nova.v1_1.extensions" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.rest.annotations.Payload'
+</violation>
+</file>
+<file name="/scratch/hudson/workspace/jclouds-1.5.0-beta.1-maven-site/apis/openstack-nova/src/main/java/org/jclouds/openstack/nova/v1_1/options/CreateServerOptions.java">
+<violation beginline="19" endline="359" begincolumn="1" endcolumn="2" rule="TooManyStaticImports" ruleset="Import Statement Rules" package="org.jclouds.openstack.nova.v1_1.options" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#TooManyStaticImports" priority="3">
+Too many static imports may lead to messy code
+</violation>
+</file>
+</pmd>
