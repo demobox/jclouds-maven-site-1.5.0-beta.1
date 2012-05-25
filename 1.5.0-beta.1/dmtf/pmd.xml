@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.5" timestamp="2012-05-24T22:40:46.529">
+<file name="/scratch/hudson/workspace/jclouds-1.5.0-beta.1-maven-site/labs/dmtf/src/main/java/org/jclouds/dmtf/cim/package-info.java">
+<violation beginline="30" endline="30" begincolumn="1" endcolumn="52" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.dmtf.DMTFConstants.CIM_NS'
+</violation>
+<violation beginline="31" endline="31" begincolumn="1" endcolumn="57" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.dmtf.DMTFConstants.CIM_RASD_NS'
+</violation>
+<violation beginline="32" endline="32" begincolumn="1" endcolumn="57" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.dmtf.DMTFConstants.CIM_VSSD_NS'
+</violation>
+<violation beginline="33" endline="33" begincolumn="1" endcolumn="52" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.dmtf.DMTFConstants.OVF_NS'
+</violation>
+<violation beginline="35" endline="35" begincolumn="1" endcolumn="47" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlAccessType'
+</violation>
+<violation beginline="36" endline="36" begincolumn="1" endcolumn="49" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlAccessorType'
+</violation>
+<violation beginline="37" endline="37" begincolumn="1" endcolumn="39" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlNs'
+</violation>
+<violation beginline="38" endline="38" begincolumn="1" endcolumn="43" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlNsForm'
+</violation>
+<violation beginline="39" endline="39" begincolumn="1" endcolumn="43" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlSchema'
+</violation>
+</file>
+<file name="/scratch/hudson/workspace/jclouds-1.5.0-beta.1-maven-site/labs/dmtf/src/main/java/org/jclouds/dmtf/ovf/StartupSectionItem.java">
+<violation beginline="53" endline="53" begincolumn="19" endcolumn="36" rule="OverrideBothEqualsAndHashcode" ruleset="Basic Rules" package="org.jclouds.dmtf.ovf" class="StartupSectionItem" method="equals" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#OverrideBothEqualsAndHashcode" priority="3">
+Ensure you override both equals() and hashCode()
+</violation>
+</file>
+<file name="/scratch/hudson/workspace/jclouds-1.5.0-beta.1-maven-site/labs/dmtf/src/main/java/org/jclouds/dmtf/ovf/environment/package-info.java">
+<violation beginline="30" endline="30" begincolumn="1" endcolumn="52" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.dmtf.DMTFConstants.CIM_NS'
+</violation>
+<violation beginline="31" endline="31" begincolumn="1" endcolumn="56" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.dmtf.DMTFConstants.OVF_ENV_NS'
+</violation>
+<violation beginline="32" endline="32" begincolumn="1" endcolumn="52" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.dmtf.DMTFConstants.OVF_NS'
+</violation>
+<violation beginline="34" endline="34" begincolumn="1" endcolumn="47" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlAccessType'
+</violation>
+<violation beginline="35" endline="35" begincolumn="1" endcolumn="49" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlAccessorType'
+</violation>
+<violation beginline="36" endline="36" begincolumn="1" endcolumn="39" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlNs'
+</violation>
+<violation beginline="37" endline="37" begincolumn="1" endcolumn="43" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlNsForm'
+</violation>
+<violation beginline="38" endline="38" begincolumn="1" endcolumn="43" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlSchema'
+</violation>
+</file>
+<file name="/scratch/hudson/workspace/jclouds-1.5.0-beta.1-maven-site/labs/dmtf/src/main/java/org/jclouds/dmtf/ovf/internal/package-info.java">
+<violation beginline="29" endline="29" begincolumn="1" endcolumn="52" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.dmtf.DMTFConstants.CIM_NS'
+</violation>
+<violation beginline="30" endline="30" begincolumn="1" endcolumn="52" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.dmtf.DMTFConstants.OVF_NS'
+</violation>
+<violation beginline="32" endline="32" begincolumn="1" endcolumn="47" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlAccessType'
+</violation>
+<violation beginline="33" endline="33" begincolumn="1" endcolumn="49" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlAccessorType'
+</violation>
+<violation beginline="34" endline="34" begincolumn="1" endcolumn="39" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlNs'
+</violation>
+<violation beginline="35" endline="35" begincolumn="1" endcolumn="43" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlNsForm'
+</violation>
+<violation beginline="36" endline="36" begincolumn="1" endcolumn="43" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlSchema'
+</violation>
+</file>
+<file name="/scratch/hudson/workspace/jclouds-1.5.0-beta.1-maven-site/labs/dmtf/src/main/java/org/jclouds/dmtf/ovf/package-info.java">
+<violation beginline="29" endline="29" begincolumn="1" endcolumn="52" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.dmtf.DMTFConstants.CIM_NS'
+</violation>
+<violation beginline="30" endline="30" begincolumn="1" endcolumn="52" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.dmtf.DMTFConstants.OVF_NS'
+</violation>
+<violation beginline="32" endline="32" begincolumn="1" endcolumn="47" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlAccessType'
+</violation>
+<violation beginline="33" endline="33" begincolumn="1" endcolumn="49" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlAccessorType'
+</violation>
+<violation beginline="34" endline="34" begincolumn="1" endcolumn="39" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlNs'
+</violation>
+<violation beginline="35" endline="35" begincolumn="1" endcolumn="43" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlNsForm'
+</violation>
+<violation beginline="36" endline="36" begincolumn="1" endcolumn="43" rule="UnusedImports" ruleset="Import Statement Rules" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.xml.bind.annotation.XmlSchema'
+</violation>
+</file>
+</pmd>
